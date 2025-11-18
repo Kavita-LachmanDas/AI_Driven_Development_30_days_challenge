@@ -40,6 +40,9 @@ Thinking in layers and systems manages complexity through **structured decomposi
 1️⃣ **CLI Prompt:**
 ![Prompt](prompt.png "Prompt")
 
+2️⃣ **Generated Specification:**
+"The email validation function must verify that the input string contains exactly one "@" symbol separating the local part from the domain part. The domain must include a period and conclude with a recognized top-level domain (TLD) such as .com, .org, or other valid IANA-listed extensions. While the function performs only syntactic checks and doesn't verify email existence, it must return specific error messages like "Missing '@' symbol," "Invalid domain format," or "Unrecognized top-level domain" to guide users toward correct input formatting."
+
 
 ## 📁 Part C — Multiple Choice Questions
 
