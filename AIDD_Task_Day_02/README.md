@@ -38,7 +38,7 @@ Thinking in layers and systems manages complexity through **structured decomposi
 **Submission:**
 
 1️⃣ **CLI Prompt:**
-![Prompt](/prompt.png "Prompt")
+![Prompt](prompt.png "Prompt")
 
 
 ## 📁 Part C — Multiple Choice Questions
