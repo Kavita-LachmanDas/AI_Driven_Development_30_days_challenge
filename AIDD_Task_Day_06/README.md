@@ -1,4 +1,4 @@
-# AIDD 30-Day Challenge — Task 3
+# AIDD 30-Day Challenge — Task 6
 
 
 ## Task 6: Linking GitHub MCP Server with Google Gemini CLI
